@@ -35,7 +35,7 @@ class App extends Component<Props> {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to MyApp!
+          Welcome to MyApp 2.0!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit App.js
